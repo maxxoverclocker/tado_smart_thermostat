@@ -1,7 +1,7 @@
 # tado_smart_thermostat
 PowerShell script that uses the Google Sheets v4 API and Tado v2 API to set your tado° Smart AC Control
 
-1) Set up a Google Sheets document (https://docs.google.com/spreadsheets/) like this: https://i.imgur.com/bLD7IHz.png
+1) Set up a Google Sheets document (https://docs.google.com/spreadsheets/) like this: https://i.imgur.com/bLD7IHz.png You can hide column 'B'
 
 2) Make Google Sheet public (only required because I'm not familiar with setting up oauth authentication. I'm sure it can be done with a private sheet)
 
