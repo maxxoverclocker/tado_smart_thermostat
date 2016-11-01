@@ -10,3 +10,4 @@ PowerShell script that uses the Google Sheets v4 API and Tado v2 API to set your
 4) Update the information in the 'script_setup' function in the .ps1 file with the updated information
 
 5) Set up a scheduled task to run every minute (or as often as you'd like) to fetch/update your desired settings
+
